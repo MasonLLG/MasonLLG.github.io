@@ -117,12 +117,12 @@ button {
 
 a {
   display: inline-block;
-  color: var(--bs-yellow);
+  color: var(--bs-pink);
   text-decoration: none;
 }
 
 a:hover {
-  color: var(--bs-orange);
+  color: var(--bs-red);
 }
 
 b,
